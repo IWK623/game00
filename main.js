@@ -68,7 +68,7 @@ function create ()
         {
             this.total++;
 
-            new Phaser.Sound.Dynamic.FX(ctx, this.eatEffect);
+            // new Phaser.Sound.Dynamic.FX(ctx, this.eatEffect);
         }
 
     });
@@ -188,7 +188,7 @@ function create ()
                 console.log('dead');
 
                 //  Game Over
-                new Phaser.Sound.Dynamic.FX(ctx, this.deathEffect);
+                // new Phaser.Sound.Dynamic.FX(ctx, this.deathEffect);
 
                 this.alive = false;
 

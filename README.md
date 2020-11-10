@@ -6,26 +6,17 @@ Phaserで作成したゲームを、 GitHabから読み込むことができま�
 
 ### Phaserのファイル構造
 
-![スクリーンショット](assets/sc01)
+![スクリーンショット](assets/sc01.png)
 
 このように、ファイルを作成してください。ゲームで使用するテクスチャなどのpngファイルはassets直下に配置します。
 
 また、main.js内でロードする時は、次のようにパスを指定します。
-```
-function preload ()
-{
-    this.load.image('food', 'assets/food.png');
-    this.load.image('body', 'assets/body.png');
-}
-```
+
+![スクリーンショット](assets/sc02.png)
+
 Game-Havでは自動でGitHubのリンクに置き換えられます。
-```
-function preload ()
-{
-    this.load.image('food', 'https://~/assets/food.png');
-    this.load.image('body', 'https://~/assets/body.png');
-}
-```
+
+![スクリーンショット](assets/sc03.png)
 
 ### リンク作成
 https://game-hav.web.app/game/

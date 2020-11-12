@@ -1,0 +1,14 @@
+{
+    "main" : "main.js",
+    "assets" : [
+        "assets/body.png",
+        "assets/food.png",
+        "assets/sc01.png",
+        "assets/sc02.png",
+        "assets/sc03.png"
+    ],
+    "notes" : [
+        "report1.md",
+        "report2.md"
+    ]
+}

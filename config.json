@@ -2,11 +2,10 @@
     "src" : "src/",
     "main" : "main.js",
     "assets" : [
-        "assets/body.png",
-        "assets/food.png"
+        "assets/"
     ],
     "notes" : [
-        "notes/report1.md",
+        "notes/",
         "README.md"
     ]
 }

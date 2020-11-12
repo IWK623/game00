@@ -1,5 +1,5 @@
 {
-    "main" : "maina.js",
+    "main" : "main.js",
     "assets" : [
         "assets/body.png",
         "assets/food.png",

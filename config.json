@@ -3,8 +3,7 @@
     "main" : "main.js",
     "assets" : [
         "assets/body.png",
-        "assets/food.png",
-        "screenshot"
+        "assets/food.png"
     ],
     "notes" : [
         "notes/report1.md",

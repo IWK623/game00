@@ -2,10 +2,10 @@
     "src" : "src/",
     "main" : "main.js",
     "assets" : [
-        "assets/"
+        "assets"
     ],
     "notes" : [
-        "notes/",
+        "notes",
         "README.md"
     ]
 }

@@ -5,17 +5,17 @@ https://phaser.io
 
 ### 1. Phaserのファイル構造
 
-![スクリーンショット](screenshot/sc01.png)
+![スクリーンショット](./img/sc01.png)
 
 このように、ファイルを作成してください。ゲームで使用するテクスチャなどのpngファイルはassets直下に配置します。
 
 また、main.js内でロードする時は、次のようにパスを指定します。
 
-![スクリーンショット](screenshot/sc02.png)
+![スクリーンショット](./img/sc02.png)
 
 Game-Havでは自動でGitHubのリンクに置き換えられます。
 
-![スクリーンショット](screenshot/sc03.png)
+![スクリーンショット](./img/sc03.png)
 
 ### 2. リンク作成
 https://game-hav.web.app/game/
